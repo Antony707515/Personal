@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "E Commerce",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "name": "Woo Commerce",
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "name": "Magazine",
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "name": "News",
+      "color": "chartreuse"
+    },
+    {
+      "id": 5,
+      "name": "Blogs",
+      "color": "blueviolet"
+    },
+    {
+      "id": 6,
+      "name": "Other",
+      "color": "brown"
+    }
+  ],
+  "currentId": 6
+}
